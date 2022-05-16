@@ -1,21 +1,3 @@
-# Hit Points
-HP at level 3: 10 + 2d10 (12) + 3xCON modifier
-
-# Proficiencies
-Proficiency bonus: +2
-Armor: All armor, shields
-Weapons: Simple weapons, martial weapons
-Tools: None
-Saving Throws: Strength, Constitution
-Skills: Choose two skills from Acrobatics, Animal Handling, Athletics, History, Insight, Intimidation, Perception, and Survival
-
-# Equipment
-You start with the following equipment, in addition to the equipment granted by your background:
-- (a) chain mail or (b) leather armor, longbow, and 20 arrows
-- (a) a martial weapon and a shield or (b) two martial weapons
--  (a) a light crossbow and 20 bolts or (b) two handaxes
--  (a) a dungeoneer’s pack or (b) an explorer’s pack
-
 # Fighting Style
 Choose ONE from the list below:
 - Archery: You gain a +2 bonus to attack rolls you make with ranged weapons.
@@ -26,7 +8,7 @@ Choose ONE from the list below:
 - Two-Weapon Fighting: When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
 
 # Second Wind
-On your turn, you can use a bonus action to regain hit points equal to 1d10 + your fighter level (3). Once you use this feature, you must finish a short or long rest before you can use it again.
+On your turn, you can use a bonus action to regain hit points equal to 1d10 +3. Once you use this feature, you must finish a short or long rest before you can use it again.
 
 # Action Surge
 On your turn, you can take one additional action.

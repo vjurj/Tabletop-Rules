@@ -1,6 +1,48 @@
 # Attribute scores
-Roll 4d6 drop lowest for each or use this array: 15, 14, 13, 12, 10, 8
-If using [Human](Human.md), your stats become 16 (+3), 15 (+2), 14 (+2), 13 (+1), 11(+0), 9(-1).
+Use this array 16 (+3), 15 (+2), 14 (+2), 13 (+1), 11(+0), 9(-1).
+
+## Fighter
+### STR melee
+-   Str: 15
+-   Dex: 8
+-   Con: 14
+-   Int: 10
+-   Wis: 13
+-   Cha: 12
+
+### DEX ranged
+-   Str: 8
+-   Dex: 15
+-   Con: 14
+-   Int: 10
+-   Wis: 13
+-   Cha: 12
+
+### Eldritch knight
+-   Str: 15
+-   Dex: 8
+-   Con: 14
+-   Int: 13
+-   Wis: 12
+-   Cha: 10
+
+## Cleric
+### Heavy armor
+-   Str: 13
+-   Dex: 8
+-   Con: 14
+-   Int: 12
+-   Wis: 15
+-   Cha: 10
+
+## Rogue
+### Standard
+-   Str: 8
+-   Dex: 15
+-   Con: 14
+-   Int: 10
+-   Wis: 13
+-   Cha: 12
 
 # Health Points
 Cleric: 8 + 2d8 (10) + 3xCON modifier
@@ -13,11 +55,13 @@ Wizard: 6 + 2d6 (8) + 3xCON modifier
 Weapons: Daggers, darts, slings, quarterstaffs, light crossbows 
 Saving Throws: Intelligence, Wisdom  
 Skills: Choose two skills from Arcana, History, Insight, Investigation, Medicine, and Religion
+
 ## Cleric
 Armor: Light armor, medium armor, heavy armor, shields
 Weapons: Simple weapons
 Saving Throws: Wisdom, Charisma
 Skills: Medicine, Religion
+
 ## Rogue
 Armor: Light armor
 Weapons: Simple weapons, hand crossbows, longswords, rapiers, shortswords
